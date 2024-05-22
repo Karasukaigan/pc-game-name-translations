@@ -21,6 +21,7 @@
    ```
    python find_similar_games.py
    ```
+![find_similar_games.py](screenshot.png)
 
 ## 贡献
 

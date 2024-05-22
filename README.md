@@ -21,6 +21,7 @@ You can choose to directly download the `game_names_merged.csv` file, or clone t
    ```
    python find_similar_games.py
    ```
+![find_similar_games.py](screenshot.png)
 
 ## Contributions
 
